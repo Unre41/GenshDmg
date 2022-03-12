@@ -1,0 +1,49 @@
+Albedo | sword | Geo | Альбедо
+Aloy | bow | Cryo | Элой
+Amber | bow | Pyro | Эмбер
+Arataki Itto | claymore | Geo | Итто
+Barbara | catalyst | Hydro | Барбара
+Beidou | claymore | Electro | Бэй Доу
+Bennett | sword | Pyro | Беннет
+Chongyun | claymore | Cryo | Чун Юнь
+Diluc | claymore | Pyro | Дилюк
+Diona | bow | Cryo | Диона
+Eula | claymore | Cryo | Эола
+Fischl | bow | Electro | Фишль
+Ganyu | bow | Cryo | Гань Юй
+Gorou | bow | Geo | Горо
+Hu Tao | polearm | Pyro | Ху Тао
+Jean | sword | Anemo | Джинн
+Kaedehara Kazuha | sword | Anemo | Кадзуха
+Kaeya | sword | Cryo | Кэйа
+Kamisato Ayaka | sword | Cryo | Аяка
+Keqing | sword | Electro | Кэ Цин
+Klee | catalyst | Pyro | Кли
+Kujou Sara | bow | Electro | Сара
+Lisa | catalyst | Electro | Лиза
+Mona | catalyst | Hydro | Мона
+Ningguang | catalyst | Geo | Нин Гуан
+Noelle | claymore | Geo | Ноэлль
+Qiqi | sword | Cryo | Ци Ци
+Raiden Shogun | polearm | Electro | Райдэн
+Razor | claymore | Electro | Рэйзор
+Rosaria | polearm | Cryo | Розария
+Sangonomiya Kokomi | catalyst | Hydro | Кокоми
+Sayu | claymore | Anemo | Саю
+Shenhe | polearm | Cryo | Шэнь Хэ
+Sucrose | catalyst | Anemo | Сахароза
+Tartaglia | Hydro | Тарталья
+Thoma | polearm | Pyro | Тома
+Traveler_Anemo | sword | Anemo | Анэмо ГГ
+Traveler_Geo | sword | Geo | Гео ГГ
+Traveler_Electro | sword | Electro | Электро ГГ
+Venti | bow | Anemo | Венти
+Xiangling | polearm | Pyro | Сян Лин
+Xiao | polearm | Anemo | Сяо
+Xingqiu | sword | Hydro | Син Цю
+Xinyan | claymore | Pyro | Синь Янь
+Yae Miko | catalyst | Electro | Яэ Мико
+Yanfei | catalyst | Pyro | Янь Фэй
+Yoimiya | bow | Pyro | Ёимия
+Yun Jin | polearm | Geo | Юнь Цзинь
+Zhongli | polearm | Geo | Чжун Ли

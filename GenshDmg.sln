@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenshDmg", "GenshDmg.csproj", "{7A37F66D-7A76-421F-8017-558C7C05A73A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FE48B1B3-329E-45A2-BEF6-5AE3BA5ACD38}"
+	ProjectSection(SolutionItems) = preProject
+		Properties\Pers\pers.txt = Properties\Pers\pers.txt
+		Properties\Weap\weapons.txt = Properties\Weap\weapons.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A37F66D-7A76-421F-8017-558C7C05A73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A37F66D-7A76-421F-8017-558C7C05A73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A37F66D-7A76-421F-8017-558C7C05A73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A37F66D-7A76-421F-8017-558C7C05A73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F3CF898-C280-49EC-A632-EF4B50E3D4C8}
+	EndGlobalSection
+EndGlobal
