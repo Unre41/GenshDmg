@@ -118,7 +118,8 @@ namespace GenshDmg
             }
             weapList.SelectedIndex = 0;
 
-            //LoadWeapons((weaponType)Enum.Parse(typeof(weaponType), characterList[persList.SelectedIndex].Split('|')[1].Trim()));
+
+            //Я хуесос
         }
     }
 }
