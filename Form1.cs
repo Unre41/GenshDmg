@@ -62,7 +62,7 @@ namespace GenshDmg
                         double.Parse(lineParsed[4])
                         ));
             }
-
+            //ясосбиба
 
         }
         private void label1_Click(object sender, EventArgs e)
