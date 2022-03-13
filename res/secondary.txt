@@ -1,8 +1,0 @@
-Physical DMG Bonus;Бонус физического урона
-Energy Recharge;Восстановление энергии
-DEF;Защита
-CRIT DMG;Критический урон
-Elemental Mastery;Мастерство стихий
-ATK;Сила атаки
-CRIT Rate;Шанс критического попадания
-HP;HP

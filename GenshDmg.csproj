@@ -55,9 +55,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Secondary.cs" />
     <Compile Include="Weapon.cs" />
-    <Compile Include="WeaponType.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -80,6 +78,57 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="src\characterData\albedo.json" />
+    <None Include="src\characterData\aloy.json" />
+    <None Include="src\characterData\amber.json" />
+    <None Include="src\characterData\arataki_itto.json" />
+    <None Include="src\characterData\barbara.json" />
+    <None Include="src\characterData\beidou.json" />
+    <None Include="src\characterData\bennett.json" />
+    <None Include="src\characterData\chongyun.json" />
+    <None Include="src\characterData\diluc.json" />
+    <None Include="src\characterData\diona.json" />
+    <None Include="src\characterData\eula.json" />
+    <None Include="src\characterData\fischl.json" />
+    <None Include="src\characterData\ganyu.json" />
+    <None Include="src\characterData\gorou.json" />
+    <None Include="src\characterData\hu_tao.json" />
+    <None Include="src\characterData\jean.json" />
+    <None Include="src\characterData\kaedehara_kazuha.json" />
+    <None Include="src\characterData\kaeya.json" />
+    <None Include="src\characterData\kamisato_ayaka.json" />
+    <None Include="src\characterData\keqing.json" />
+    <None Include="src\characterData\klee.json" />
+    <None Include="src\characterData\kujou_sara.json" />
+    <None Include="src\characterData\lisa.json" />
+    <None Include="src\characterData\mona.json" />
+    <None Include="src\characterData\ningguang.json" />
+    <None Include="src\characterData\noelle.json" />
+    <None Include="src\characterData\qiqi.json" />
+    <None Include="src\characterData\raiden_shogun.json" />
+    <None Include="src\characterData\razor.json" />
+    <None Include="src\characterData\rosaria.json" />
+    <None Include="src\characterData\sangonomiya_kokomi.json" />
+    <None Include="src\characterData\sayu.json" />
+    <None Include="src\characterData\shenhe.json" />
+    <None Include="src\characterData\sucrose.json" />
+    <None Include="src\characterData\tartaglia.json" />
+    <None Include="src\characterData\thoma.json" />
+    <None Include="src\characterData\traveler_anemo.json" />
+    <None Include="src\characterData\traveler_electro.json" />
+    <None Include="src\characterData\traveler_geo.json" />
+    <None Include="src\characterData\venti.json" />
+    <None Include="src\characterData\xiangling.json" />
+    <None Include="src\characterData\xiao.json" />
+    <None Include="src\characterData\xingqiu.json" />
+    <None Include="src\characterData\xinyan.json" />
+    <None Include="src\characterData\yae_miko.json" />
+    <None Include="src\characterData\yanfei.json" />
+    <None Include="src\characterData\yoimiya.json" />
+    <None Include="src\characterData\yun_jin.json" />
+    <None Include="src\characterData\zhongli.json" />
+    <None Include="src\weapons.json" />
+    <None Include="src\weaponTypes.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -88,11 +137,8 @@
     <None Include="Properties\Tort.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="res\enemy.txt" />
-    <Content Include="res\pers.txt" />
-    <Content Include="res\secondary.txt" />
-    <Content Include="res\weaponTypes.txt" />
-    <Content Include="res\weapons.txt" />
+    <Content Include="src\enemy.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

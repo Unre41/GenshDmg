@@ -6,30 +6,34 @@ using System.Threading.Tasks;
 
 namespace GenshDmg
 {
-    class Weapon
+    public class Skill
     {
-        public WeaponType type;
-        public string Name { get; set; }
-        public double damage;
-        public Secondary secondary;
-        public double secondaryDMG;
-        public bool isSecondary;
+        public string name { get; set; }
+        public string description { get; set; }
+    }
 
-        public Weapon(WeaponType type, string name, double damage, Secondary secondary, double secondaryDMG)
-        {
-            this.Name = name;
-            this.type = type;
-            this.damage = damage;
-            this.secondary = secondary;
-            this.secondaryDMG = secondaryDMG;
-            isSecondary = true;
-        }
-        public Weapon(WeaponType type, string name, double damage)
-        {
-            this.Name = name;
-            this.type = type;
-            this.damage = damage;
-            isSecondary = false;
-        }
+    public class Secondary
+    {
+        public string name { get; set; }
+        public List<double?> stats { get; set; }
+    }
+
+    public class Type
+    {
+        public string id { get; set; }
+        public string name;
+        public string translation;
+    }
+
+    public class Weapon
+    {
+        public string id { get; set; }
+        public string name { get; set; }
+        public Type type { get; set; }
+        public int rarity { get; set; }
+        public string description { get; set; }
+        public Skill skill { get; set; }
+        public Secondary secondary { get; set; }
+        public List<double?> atk { get; set; }
     }
 }
