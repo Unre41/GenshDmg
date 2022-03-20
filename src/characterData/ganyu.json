@@ -1,5 +1,6 @@
 {
   "id": "ganyu",
+  "name": "Гань Юй",
   "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
   "weapon": "bow",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     625.7991390864045,
     630.2146005977265
   ],
-  "critDamage": [
+  "statGrowList": [
     0.5,
     0.5,
     0.5,

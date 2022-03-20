@@ -1,5 +1,6 @@
 {
   "id": "thoma",
+  "name": "Тома",
   "description": "The Kamisato Clan's housekeeper. A well-known \"fixer\" in Inazuma.",
   "weapon": "polearm",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     745.549014262524,
     750.7736681492424
   ],
-  "atkPercent": [
+  "statGrowList": [
     0,
     0,
     0,

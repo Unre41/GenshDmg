@@ -1,5 +1,6 @@
 {
   "id": "razor",
+  "name": "Рейзор",
   "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
   "weapon": "claymore",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     745.549014262524,
     750.7736681492424
   ],
-  "physicalDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

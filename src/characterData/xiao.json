@@ -1,5 +1,6 @@
 {
   "id": "xiao",
+  "name": "Сяо",
   "description": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
   "weapon": "polearm",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     793.6964822724185,
     799.2965799245794
   ],
-  "critRate": [
+  "statGrowList": [
     0.05000000074505806,
     0.05000000074505806,
     0.05000000074505806,

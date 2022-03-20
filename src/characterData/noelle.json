@@ -1,5 +1,6 @@
 {
   "id": "noelle",
+  "name": "Ноэлль",
   "description": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
   "weapon": "claymore",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     792.9930216084467,
     798.5501533747884
   ],
-  "defPercent": [
+  "statGrowList": [
     0,
     0,
     0,

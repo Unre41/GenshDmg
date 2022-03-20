@@ -1,5 +1,6 @@
 {
   "id": "diluc",
+  "name": "Дилюк",
   "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
   "weapon": "claymore",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     778.4330710532013,
     783.9254743546844
   ],
-  "critRate": [
+  "statGrowList": [
     0.05000000074505806,
     0.05000000074505806,
     0.05000000074505806,

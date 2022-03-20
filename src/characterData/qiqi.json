@@ -1,5 +1,6 @@
 {
   "id": "qiqi",
+  "name": "Ци Ци",
   "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
   "weapon": "sword",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     915.8035918007809,
     922.2652425417473
   ],
-  "healingBonus": [
+  "statGrowList": [
     0,
     0,
     0,

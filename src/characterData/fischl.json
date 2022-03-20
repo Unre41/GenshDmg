@@ -1,5 +1,6 @@
 {
   "id": "fischl",
+  "name": "Фишль",
   "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
   "weapon": "bow",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     589.6615176680352,
     593.7937441455288
   ],
-  "atkPercent": [
+  "statGrowList": [
     0,
     0,
     0,

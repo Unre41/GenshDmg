@@ -1,5 +1,6 @@
 {
   "id": "kaeya",
+  "name": "Кэйа",
   "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
   "weapon": "sword",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     786.2152995888755,
     791.7249344700394
   ],
-  "er": [
+  "statGrowList": [
     0,
     0,
     0,

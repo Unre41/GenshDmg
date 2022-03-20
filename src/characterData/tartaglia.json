@@ -1,5 +1,6 @@
 {
   "id": "tartaglia",
+  "name": "Тарталья",
   "description": "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield.",
   "weapon": "bow",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     808.9598452395294,
     814.6676368990447
   ],
-  "hydroDamageBonus": [
+  "statGrowLists": [
     0,
     0,
     0,

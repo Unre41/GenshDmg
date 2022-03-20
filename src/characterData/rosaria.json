@@ -1,5 +1,6 @@
 {
   "id": "rosaria",
+  "name": "Розария",
   "description": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
   "weapon": "polearm",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     704.8827136773834,
     709.8223865696564
   ],
-  "atkPercent": [
+  "statGrowList": [
     0,
     0,
     0,

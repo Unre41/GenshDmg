@@ -48,13 +48,14 @@ namespace GenshDmg
     public class Character
     {
         public string id { get; set; }
+        public string name { get; set; }
         public string description { get; set; }
         public string weapon { get; set; }
         public string rarity { get; set; }
         public List<double?> hp { get; set; }
         public List<double?> atk { get; set; }
         public List<double?> def { get; set; }
-        public List<double> atkPercent { get; set; }
+        public List<double> statGrowList { get; set; }
         public string statGrow { get; set; }
         public List<Constellation> constellations { get; set; }
         public List<Passive> passives { get; set; }

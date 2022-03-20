@@ -1,5 +1,6 @@
 {
   "id": "kaedehara_kazuha",
+  "name": "Кадзуха",
   "description": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
   "weapon": "sword",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     801.3281396299208,
     806.9820841140972
   ],
-  "em": [
+  "statGrowList": [
     0,
     0,
     0,

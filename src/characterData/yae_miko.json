@@ -1,5 +1,6 @@
 {
   "id": "yae_miko",
+  "name": "Яэ Мико",
   "description": "Lady Guuji of the Grand Narukami Shrine also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
   "weapon": "catalyst",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     564.7455601961701,
     568.7302449914278
   ],
-  "critRate": [
+  "statGrowList": [
     0.05000000074505806,
     0.05000000074505806,
     0.05000000074505806,

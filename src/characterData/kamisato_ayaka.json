@@ -1,5 +1,6 @@
 {
   "id": "kamisato_ayaka",
+  "name": "Аяка",
   "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
   "weapon": "sword",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     778.4330710532013,
     783.9254743546844
   ],
-  "critDamage": [
+  "statGrowList": [
     0.5,
     0.5,
     0.5,

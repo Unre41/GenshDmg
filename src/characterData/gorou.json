@@ -1,5 +1,6 @@
 {
   "id": "gorou",
+  "name": "Горо",
   "description": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
   "weapon": "bow",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     643.8832470335292,
     648.3954482758236
   ],
-  "geoDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

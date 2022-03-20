@@ -1,5 +1,6 @@
 {
   "id": "raiden_shogun",
+  "name": "Сегун Райден",
   "description": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
   "weapon": "polearm",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     783.7752687744069,
     789.3053652016242
   ],
-  "er": [
+  "statGrowList": [
     0,
     0,
     0,

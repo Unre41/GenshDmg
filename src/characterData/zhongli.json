@@ -1,5 +1,6 @@
 {
   "id": "zhongli",
+  "name": "Чжун Ли",
   "description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
   "weapon": "polearm",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     732.6428703888669,
     737.81219098164
   ],
-  "geoDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

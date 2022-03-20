@@ -1,5 +1,6 @@
 {
   "id": "venti",
+  "name": "Венти",
   "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
   "weapon": "bow",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     663.9576341411303,
     668.6423311858234
   ],
-  "er": [
+  "statGrowList": [
     0,
     0,
     0,

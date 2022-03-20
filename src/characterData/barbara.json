@@ -1,5 +1,6 @@
 {
   "id": "barbara",
+  "name": "Барбара",
   "description": "Every citizen of Mondstadt adores Barbara. She learned the word \"idol\" from a magazine.",
   "weapon": "catalyst",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     664.2164130922429,
     668.8711049900703
   ],
-  "hpPercent": [
+  "statGrowList": [
     0,
     0,
     0,

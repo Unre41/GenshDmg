@@ -1,5 +1,6 @@
 {
   "id": "beidou",
+  "name": "Бэй Доу",
   "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
   "weapon": "claymore",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     643.8832470335292,
     648.3954482758236
   ],
-  "electroDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

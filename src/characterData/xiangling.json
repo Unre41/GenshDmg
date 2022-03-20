@@ -1,5 +1,6 @@
 {
   "id": "xiangling",
+  "name": "Сян Лин",
   "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
   "weapon": "polearm",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     664.2164130922429,
     668.8711049900703
   ],
-  "em": [
+  "statGrowList": [
     0,
     0,
     0,

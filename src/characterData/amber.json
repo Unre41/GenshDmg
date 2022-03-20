@@ -1,5 +1,6 @@
 {
   "id": "amber",
+  "name": "Эмбер",
   "description": "Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.",
   "weapon": "bow",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     596.4392244288174,
     600.6189477914886
   ],
-  "atkPercent": [
+  "statGrowList": [
     0,
     0,
     0,

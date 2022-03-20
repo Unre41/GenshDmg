@@ -1,5 +1,6 @@
 {
   "id": "xingqiu",
+  "name": "Син Цю",
   "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
   "weapon": "sword",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     752.3267362820952,
     757.5988870539913
   ],
-  "atkPercent": [
+  "statGrowList": [
     0,
     0,
     0,

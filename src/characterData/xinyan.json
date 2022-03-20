@@ -1,5 +1,6 @@
 {
   "id": "xinyan",
+  "name": "Синь Янь",
   "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
   "weapon": "claymore",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     792.9930216084467,
     798.5501533747884
   ],
-  "atkPercent": [
+  "statGrowList": [
     0,
     0,
     0,

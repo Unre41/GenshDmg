@@ -1,5 +1,6 @@
 {
   "id": "chongyun",
+  "name": "Чунь Юнь",
   "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
   "weapon": "claymore",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     643.8832470335292,
     648.3954482758236
   ],
-  "atkPercent": [
+  "statGrowList": [
     0,
     0,
     0,

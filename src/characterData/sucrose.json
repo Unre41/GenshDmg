@@ -1,5 +1,6 @@
 {
   "id": "sucrose",
+  "name": "Сахароза",
   "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
   "weapon": "catalyst",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     698.1049916578122,
     702.9971676649075
   ],
-  "anemoDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

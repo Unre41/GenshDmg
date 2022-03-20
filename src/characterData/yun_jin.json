@@ -1,5 +1,6 @@
 {
   "id": "yun_jin",
+  "name": "Юнь Цзинь",
   "description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
   "weapon": "polearm",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     729.2825066413825,
     734.393168256971
   ],
-  "er": [
+  "statGrowList": [
     0,
     0,
     0,

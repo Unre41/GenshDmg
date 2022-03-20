@@ -1,5 +1,6 @@
 {
   "id": "klee",
+  "name": "Кли",
   "description": "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
   "weapon": "catalyst",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     610.5357278671872,
     614.8434950278315
   ],
-  "pyroDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

@@ -15,25 +15,18 @@ namespace GenshDmg
     public class Secondary
     {
         public string name { get; set; }
-        public List<double?> stats { get; set; }
-    }
-
-    public class Type
-    {
-        public string id { get; set; }
-        public string name;
-        public string translation;
+        public List<object> stats { get; set; }
     }
 
     public class Weapon
     {
         public string id { get; set; }
         public string name { get; set; }
-        public Type type { get; set; }
+        public string type { get; set; }
         public int rarity { get; set; }
         public string description { get; set; }
         public Skill skill { get; set; }
         public Secondary secondary { get; set; }
-        public List<double?> atk { get; set; }
+        public List<object> atk { get; set; }
     }
 }

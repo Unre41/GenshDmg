@@ -1,5 +1,6 @@
 {
   "id": "yanfei",
+  "name": "Янь Фэй",
   "description": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
   "weapon": "catalyst",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     582.883795648464,
     586.9685252407799
   ],
-  "pyroDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

@@ -1,5 +1,6 @@
 {
   "id": "sangonomiya_kokomi",
+  "name": "Кокоми",
   "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
   "weapon": "catalyst",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     652.510092223376,
     657.1140186767225
   ],
-  "hydroDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

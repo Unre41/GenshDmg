@@ -1,5 +1,6 @@
 {
   "id": "yoimiya",
+  "name": "Ёимия",
   "description": "Owner of Naganohara Fireworks. Known as \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
   "weapon": "bow",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     610.5357278671872,
     614.8434950278315
   ],
-  "critRate": [
+  "statGrowList": [
     0.05000000074505806,
     0.05000000074505806,
     0.05000000074505806,

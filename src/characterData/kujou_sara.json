@@ -1,5 +1,6 @@
 {
   "id": "kujou_sara",
+  "name": "Сара",
   "description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
   "weapon": "bow",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     623.5500809748155,
     627.9197915615769
   ],
-  "atkPercent": [
+  "statGrowList": [
     0,
     0,
     0,

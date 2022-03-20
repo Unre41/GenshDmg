@@ -1,5 +1,6 @@
 {
   "id": "hu_tao",
+  "name": "Ху Тао",
   "description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
   "weapon": "polearm",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     870.0134241297637,
     876.1519925053435
   ],
-  "critDamage": [
+  "statGrowList": [
     0.5,
     0.5,
     0.5,

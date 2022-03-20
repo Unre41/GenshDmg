@@ -1,5 +1,6 @@
 {
   "id": "ningguang",
+  "name": "Нин Гуан",
   "description": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
   "weapon": "catalyst",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     569.3283516093215,
     573.318087431282
   ],
-  "geoDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

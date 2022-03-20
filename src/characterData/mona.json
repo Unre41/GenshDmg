@@ -1,5 +1,6 @@
 {
   "id": "mona",
+  "name": "Мона",
   "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
   "weapon": "catalyst",
   "rarity": "legendary",
@@ -300,7 +301,7 @@
     648.694222921913,
     653.2712256159284
   ],
-  "er": [
+  "statGrowList": [
     0,
     0,
     0,

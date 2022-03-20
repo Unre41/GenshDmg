@@ -1,5 +1,6 @@
 {
   "id": "bennett",
+  "name": "Беннет",
   "description": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
   "weapon": "sword",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     765.8821965947354,
     771.2493414536075
   ],
-  "er": [
+  "statGrowList": [
     0,
     0,
     0,

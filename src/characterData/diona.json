@@ -1,5 +1,6 @@
 {
   "id": "diona",
+  "name": "Диона",
   "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
   "weapon": "bow",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     596.4392244288174,
     600.6189477914886
   ],
-  "cryoDamageBonus": [
+  "statGrowList": [
     0,
     0,
     0,

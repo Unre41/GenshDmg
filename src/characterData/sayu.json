@@ -1,5 +1,6 @@
 {
   "id": "sayu",
+  "name": "Саю",
   "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.",
   "weapon": "claymore",
   "rarity": "rare",
@@ -300,7 +301,7 @@
     739.4490820413448,
     744.6309889846998
   ],
-  "em": [
+  "statGrowList": [
     0,
     0,
     0,
